@@ -2,7 +2,7 @@
 .logo{
     background-color: white;
     height: 230px;
-    background-image: url("../images/jakes-logo.png");
+    background-image: url("jakes-logo.png");
     background-repeat: no-repeat;
     background-position: center;
 
@@ -94,20 +94,20 @@
 .meal1{
 
     margin-top: 20px;
-    background-image: url("../images/steak.png"); 
+    background-image: url("steak.png"); 
     
 
 }
 
 .meal2{
 
-    background-image: url("../images/soup.png");
+    background-image: url("soup.png");
     
 }
 
 .meal3{
 
-    background-image: url("../images/cheesecake.png");
+    background-image: url("cheesecake.png");
 
 
 }
